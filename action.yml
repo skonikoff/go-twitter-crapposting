@@ -1,6 +1,6 @@
-name: Name of your action
-author: Your Name
-description: Description of your action
+name: Go Twitter Crapposting
+author: Sebastian Konikoff
+description: Crapposts to twitter on demand
 branding:
   icon: message-circle
   color: blue
